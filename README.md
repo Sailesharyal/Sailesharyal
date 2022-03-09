@@ -7,8 +7,6 @@
  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 &nbsp;***About me ....***<br>
-
-<br>
  
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 
@@ -18,7 +16,7 @@
 
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 
-✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. 
+✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>
  <a href="https://www.linkedin.com/in/sailesh_aryal00/">

@@ -1,4 +1,5 @@
 ### Hi there 👋 
+<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="Right">
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> 
@@ -12,7 +13,7 @@
 
 ✔ I’m currently learner<br>
 
-✔ I’m currently learning about C# Dotnet <br> 
+✔ I’m currently learning about C# Dotnet  <br> 
 
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 
@@ -30,13 +31,13 @@
 </a>
 <br><br><br>
  
-<p align='Left'>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">
+<p align='Center'>
+  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">
 </p>
 <br>
 
-<p align='Right'>
-  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SaileshAryal" />  
+<p align='Center'>
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SaileshAryal" />  
 </p>      
   <br>
 <p align='center'>  

@@ -1,8 +1,8 @@
 ### Hi there 👋  
-<br><br>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br>
-&nbsp;***About me ....***<br>
+&nbsp;***About me ....***<br><br>
 
 <a href="https://www.linkedin.com/in/sailesh_aryal00/">
   <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,8 +13,9 @@
 <a href="https://www.facebook.com/sailesharyal40">
   <img align="left" alt="sailesh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
+<br><br>
+ <p align='right'>
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>  
 ### Some of my works <br>
 

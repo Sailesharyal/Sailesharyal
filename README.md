@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 👋 <br>  
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> <br>
@@ -6,7 +6,7 @@
  <p align='left'>
  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
-&nbsp;***About me ....***<br><br>
+&nbsp;***About me ....***<br>
 
 <a href="https://www.linkedin.com/in/sailesh_aryal00/">
   <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,11 +32,9 @@
 
 ✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>
-  
-   
-<br><br>
-
+✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>    
+<br>
+ 
 <p align='Left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">
 </p>

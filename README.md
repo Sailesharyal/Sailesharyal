@@ -1,4 +1,4 @@
-### Hi there 👋 <br>  
+### Hi there 👋 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> 
@@ -20,7 +20,7 @@
 
 ✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br> <br>  
+✔ Real fact : *I Always try to LEARN and SHARE* 😎
  <a href="https://www.linkedin.com/in/sailesh_aryal00/">
   <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

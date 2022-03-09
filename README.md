@@ -1,7 +1,7 @@
 ### Hi there 👋 <br>  
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> <br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> 
 
  <p align='left'>
  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -17,9 +17,8 @@
 <a href="https://www.facebook.com/sailesharyal40">
   <img align="left" alt="sailesh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br><br>
-
-<br>  
+<br>
+ 
 ### Some of my works <br>
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>

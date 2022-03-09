@@ -1,7 +1,7 @@
 ### Hi there 👋  
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br>
 &nbsp;***About me ....***<br>
 
 <a href="https://www.linkedin.com/in/sailesh_aryal00/">
@@ -40,7 +40,7 @@
 <p align='Right'>
   <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SaileshAryal" />  
 </p>      
-  
+  <br>
 <p align='center'>  
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sailesharyal&theme=juicyfresh&no-bg=true" alt="sailesharyal" />  
 

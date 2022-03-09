@@ -20,7 +20,7 @@
 
 ✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>   
+✔ Real fact : *I Always try to LEARN and SHARE* 😎<br> <br>  
  <a href="https://www.linkedin.com/in/sailesh_aryal00/">
   <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,7 +30,7 @@
 <a href="https://www.facebook.com/sailesharyal40">
   <img align="left" alt="sailesh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
+<br><br><br>
  
 <p align='Left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">

@@ -8,19 +8,8 @@
  
 &nbsp;***About me ....***<br>
 
-<a href="https://www.linkedin.com/in/sailesh_aryal00/">
-  <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/sailesh_aryal00/">
-  <img align="left" alt="Sailesh's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/sailesharyal40">
-  <img align="left" alt="sailesh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br>
  
-### Some of my works <br>
-
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 
 ✔ I’m currently learner<br>
@@ -31,7 +20,16 @@
 
 ✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>    
+✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>   
+ <a href="https://www.linkedin.com/in/sailesh_aryal00/">
+  <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/sailesh_aryal00/">
+  <img align="left" alt="Sailesh's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/sailesharyal40">
+  <img align="left" alt="sailesh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <br>
  
 <p align='Left'>

@@ -28,7 +28,7 @@
 
 ✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
+✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>
   
    
 <br><br>

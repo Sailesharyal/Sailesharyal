@@ -24,20 +24,22 @@
 
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 
+✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
+
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
   
    
 <br><br><br><br>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats">
+<p align='Left'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chandan-g-bhagat" />  
+<p align='Right'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SaileshAryal" />  
 </p>      
   
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sailesharyal&theme=juicyfresh&no-bg=true" alt="chandan-g-bhagat" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sailesharyal&theme=juicyfresh&no-bg=true" alt="sailesharyal" />  
 
 </p>

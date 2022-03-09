@@ -31,11 +31,12 @@
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
   
    
-<br><br><br><br>
+<br><br>
 
 <p align='Left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">
 </p>
+<br>
 
 <p align='Right'>
   <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SaileshAryal" />  

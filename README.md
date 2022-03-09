@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="Right">
+<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> 

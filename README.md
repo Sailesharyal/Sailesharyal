@@ -18,9 +18,9 @@
 
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 
-✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
+✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. 
 
-✔ Real fact : *I Always try to LEARN and SHARE* 😎
+✔ Real fact : *I Always try to LEARN and SHARE* 😎<br>
  <a href="https://www.linkedin.com/in/sailesh_aryal00/">
   <img align="left" alt="Sailesh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

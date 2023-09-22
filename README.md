@@ -13,11 +13,11 @@
 
 ✔ I’m currently learner<br>
 
-✔ I’m currently learning about C# Dotnet  <br> 
+✔ I’m currently learning about programming  <br> 
 
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 
-✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
+✔ 💼 I’m pursuing a Bachelor's degree in Computer Science from BCU. <br>
 
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br>
  <a href="https://www.linkedin.com/in/sailesh_aryal00/">

@@ -26,7 +26,7 @@
 <a href="https://www.instagram.com/sailesh_aryal00/">
   <img align="left" alt="Sailesh's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/sailesharyal40">
+<a href="https://www.facebook.com/sailesh.aryal.391/">
   <img align="left" alt="sailesh's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br><br><br>
